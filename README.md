@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on HUAWEI, CAS
+- 🌱 I’m currently learning OS, CG, CV, DB, WEB
+- 👯 I’m looking to collaborate on web
+- 🤔 I’m looking for help with GSoC
+- 💬 Ask me about nothing
+- 📫 How to reach me: issue
+- ⚡ Fun fact: 
