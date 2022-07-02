@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on HW, CAS
-- 🌱 I’m currently learning OS, CG, CV, DB, WEB
+- 🌱 I’m currently learning OS, CV, DB, WEB
 - 👯 I’m looking to collaborate on web
-- 🤔 I’m looking for help with GSoC
+- 🤔 I’m looking for help with you
 - 💬 Ask me about nothing
 - 📫 How to reach me: issue
 - ⚡ Fun fact: 
