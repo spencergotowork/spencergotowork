@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: issue
 - ⚡ Fun fact: 
+<!--
 ![Ran's github stats](https://github-readme-stats.vercel.app/api?username=spencergotowork&show_icons=true&theme=radical)
+-->
