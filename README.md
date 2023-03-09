@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <!--
 ![Ran's github stats](https://github-readme-stats.vercel.app/api?username=spencergotowork&show_icons=true&theme=radical)
 -->
+
+![](https://komarev.com/ghpvc/?username=spencergotowork&color=dc143c)
