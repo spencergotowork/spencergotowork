@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on HW, CAS
-- 🌱 I’m currently learning OS, CV, DB, WEB
-- 👯 I’m looking to collaborate on web
-- 🤔 I’m looking for help with you
+- 🔭 I’m worked for Huawei, Intel, CAS
+- 🌱 I’m currently working on IoT OS, CV, cryptography, IaaS
+- 👯 I’m looking to collaborate on robotics projects
 - 💬 Ask me about nothing
 - 📫 How to reach me: issue
 - ⚡ Fun fact: 
@@ -26,3 +25,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=spencergotowork&color=dc143c)
+
+![不良帅](https://user-images.githubusercontent.com/42672437/236623853-2e5fc5fc-9fbe-43c2-8d21-7a6cd9912303.png)
