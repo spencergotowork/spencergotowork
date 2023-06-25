@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=spencergotowork&color=dc143c)
-<!-- ![蔡徐坤_Trim](https://github.com/spencergotowork/spencergotowork/assets/42672437/2bf42f1b-ac0b-4e11-8941-18f35ba26f68) -->
-<!-- ![蔡徐坤_Trim](https://github.com/spencergotowork/spencergotowork/assets/42672437/83627257-fcb9-4999-9a4f-71ad030fee40) -->
 
-![不良帅](https://user-images.githubusercontent.com/42672437/236623853-2e5fc5fc-9fbe-43c2-8d21-7a6cd9912303.png)
+![github contribution grid snake animation](https://raw.githubusercontent.com/spencergotowork/spencergotowork/output/github-contribution-grid-snake.svg)
+<!-- ![不良帅](https://user-images.githubusercontent.com/42672437/236623853-2e5fc5fc-9fbe-43c2-8d21-7a6cd9912303.png) -->
