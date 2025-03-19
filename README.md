@@ -2,7 +2,7 @@
 
 
 - 🔭 I worked at Huawei ![新建 文本文档](https://github.com/spencergotowork/spencergotowork/assets/42672437/eb76935d-fd34-4449-8a37-a79e8def1549), Intel ![新建 文本文档](https://github.com/spencergotowork/spencergotowork/assets/42672437/dbada0b9-f3d4-43aa-8e91-4e01864f49de), CAS
-- 🌱 I’m currently working on IoT OS, CV, cryptography, IaaS
+- 🌱 I’m currently working on IoT OS, CV, cryptography
 - 👯 I’m looking to collaborate on lower layer software
 - 📫 How to reach me: issue
 - ⚡ Fun fact:
